@@ -1,1 +1,1 @@
-# EDA
+# Customer segmentation
